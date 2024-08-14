@@ -1,5 +1,7 @@
 > [!NOTE]
-> This repo is only to deploy backend for this module. The tasks though were frontend oriented.
+> **Repo contents:** Has backend and frontend.<br>
+> **Purpose of repo:** To deploy backend for this module.<br>
+> **Tasks in module:** To implement frontend.
 
 # Module: QKart Frontend (Hooks)
 
