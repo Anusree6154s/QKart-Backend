@@ -42,6 +42,10 @@ During the course of this project:
    - Checkout process
 2. **Deployment**
 
+## Deployment URL
+- Backend (Render) - https://qkart-backend-8sar.onrender.com/
+- Frontend (Vercel) - https://anilkumaranusree113-me-qkart-frontend-v2-1v7k15h9c.vercel.app/
+
 ## Milestones
 
 ### 1. Add Registration Feature
