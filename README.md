@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repo is only to deploy backend for this module. The tasks though were frontend oriented.
+
 # Module: QKart Frontend (Hooks)
 
 ## Overview of Module
